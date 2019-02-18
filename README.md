@@ -1,4 +1,6 @@
 ## Go Ethereum
+本项目参考自：[美图](https://github.com/meitu/go-ethereum)
+目前只是参考实现了dpos算法，具体对接还未实现
 
 项目改造中...
 
